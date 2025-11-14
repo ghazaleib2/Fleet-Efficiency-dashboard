@@ -1,0 +1,2 @@
+category,vehicle_count,distance_traveled_km,liters_consumed,engine_time_sec,idle_time_sec,total_co2_kg,total_fuel_cost_eur,km_per_liter,idle_ratio,benchmark,vs_benchmark_pct
+Default,683,203740.37744903564,28044.8999877928,45480261.0,26378940.0,70112.249969482,42067.3499816892,7.264792441325104,0.5800085448058444,8.0,-9.190094483436194
